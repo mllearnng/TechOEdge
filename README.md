@@ -20,5 +20,6 @@ This is one of the biggest limitations of the AWS Glue. To overcome this limitat
 
 # Architecture
 
+<img width="808" alt="Screen Shot 2022-11-19 at 10 25 20 PM" src="https://user-images.githubusercontent.com/50221802/202885639-367970bd-c4a6-4e67-90c4-2019cbf0d2db.png">
 
 
