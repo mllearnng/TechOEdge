@@ -18,6 +18,7 @@ data based on the video categories and the trending metrics.
 This is one of the biggest limitations of the AWS Glue. To overcome this limitation, you need to have the above-mentioned data sources.
  - Limitations of Real-time data - As AWS Glue only supports a handful of data sources like S3, there is no room to include an incremental synchronization with the data source.
 
+# Architecture
 
 
 
