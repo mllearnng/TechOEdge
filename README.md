@@ -12,7 +12,7 @@ data based on the video categories and the trending metrics.
  - Using AWS Glue interactive sessions, data engineers can interactively explore and prepare data using the integrated development environment (IDE) or notebook of their choice.
  - More easily support various data processing frameworks, such as ETL and ELT, and various workloads, including batch, micro-batch, and streaming.
  
-# when we should not use Glue : 
+# When we should not use Glue : 
   - Amount of Work Involved in the Customization - AWS Glue is a managed ETL service for Apache Spark. And it is not a full-fledged ETL service like Talend, Xplexty, etc.
   - AWS Glue is specifically made for the AWS console and its products. And hence it isn’t easy to use for other technologies.Also, it supports limited data sources like S3 and JDBC. Hence, you need to move your data to these cloud applications (if it is not there already) for the AWS Glue functioning.
 This is one of the biggest limitations of the AWS Glue. To overcome this limitation, you need to have the above-mentioned data sources.
