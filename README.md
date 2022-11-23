@@ -22,4 +22,6 @@ This is one of the biggest limitations of the AWS Glue. To overcome this limitat
 
 <img width="808" alt="Screen Shot 2022-11-19 at 10 25 20 PM" src="https://user-images.githubusercontent.com/50221802/202885639-367970bd-c4a6-4e67-90c4-2019cbf0d2db.png">
 
+# Pricing 
 
+AWS Glue ETL jobs are billed at an hourly rate based on data processing units (DPU), which map to performance of the serverless infrastructure on which Glue runs. For the AWS Glue Data Catalog, users pay a monthly fee for storing and accessing Data Catalog the metadata. The first million objects stored are free, and the first million accesses are free. A development endpoint provisioned to interactively develop ETL code is billed per second. [Link text Here]([https://link-url-here.org](https://aws.amazon.com/glue/pricing/))
