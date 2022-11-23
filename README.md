@@ -26,7 +26,7 @@ This is one of the biggest limitations of the AWS Glue. To overcome this limitat
 
 AWS Glue ETL jobs are billed at an hourly rate based on data processing units (DPU), which map to performance of the serverless infrastructure on which Glue runs. For the AWS Glue Data Catalog, users pay a monthly fee for storing and accessing Data Catalog the metadata. The first million objects stored are free, and the first million accesses are free. A development endpoint provisioned to interactively develop ETL code is billed per second. [pricing](https://aws.amazon.com/glue/pricing)
 
-# Comparision in Azure 
+# Comparision with Azure 
 
 Azure Data Factory and AWS Glue are two serverless offerings from competing products from the two biggest cloud service providers and both use Spark as an underlying tech stack. They are PaaS based products focused on ETL and ELT.
 
