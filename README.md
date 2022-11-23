@@ -32,16 +32,16 @@ Azure Data Factory and AWS Glue are two serverless offerings from competing prod
 
 Similarities between AWS Glue and Azure Data Factory are given below:
 
-Both are fully managed and have server-less ETL engines.
-Both services support structured and unstructured data ingestion.
-Both services can generate codes automatically.
-Spark’s foundational technology stacks in both services.
-Both services support the trigger type schedule is manual as well as automatic.
-Both services allow you to concentrate on developing business logic and data transformation.
-Both services can perform data cleaning, transformation, and aggregation.
-AWS Glue can connect to data warehouses and move data to and from Amazon Redshift, whereas ADF can connect to data warehouses and move data into and out of SQL DW.
-Both services have transparent pricing and support SLAs.
-Both have the ability for customers to add new data sources, where developers can write custom code in Scala or Python and import custom libraries and Jar files into Glue ETL jobs to access data sources not natively supported by AWS Glue.
+- Both are fully managed and have server-less ETL engines.
+- Both services support structured and unstructured data ingestion.
+- Both services can generate codes automatically.
+- Spark’s foundational technology stacks in both services.
+- Both services support the trigger type schedule is manual as well as automatic.
+- Both services allow you to concentrate on developing business logic and data transformation.
+- Both services can perform data cleaning, transformation, and aggregation.
+- AWS Glue can connect to data warehouses and move data to and from Amazon Redshift, whereas ADF can connect to data warehouses and move data into and out of SQL DW.
+- Both services have transparent pricing and support SLAs.
+- Both have the ability for customers to add new data sources, where developers can write custom code in Scala or Python and import custom libraries and Jar files into Glue ETL jobs to access data sources not natively supported by AWS Glue.
 
 With AWS Glue, you are limited to using other AWS services as data sources, though one could argue that you could use JDBC to connect with other databases. In contrast, ADF can connect to a lot more data sources, including SaaS platforms, Web services, AWS services, and many more.
 
